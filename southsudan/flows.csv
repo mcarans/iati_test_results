@@ -1,0 +1,148 @@
+Reporting org id,Reporting org name,Reporting org type,Provider org id,Provider org name,Provider org type,Receiver org id,Receiver org name,Receiver org type,Humanitarian?,Strict?,Transaction direction,Total money
+#org+id+reporting,#org+name+reporting,#org+reporting+type,#org+id+provider,#org+name+provider,#org+type+provider,#org+id+receiver,#org+name+receiver,#org+type+receiver,#indicator+bool+humanitarian,#indicator+bool+strict,#x_transaction_direction,#value+total
+xm-dac-5-7,Germany - Federal Foreign Office,10,,,,,United Nations Office of Co-ordination of Humanitarian Affairs (UNOCHA),40,1,1,outgoing,2267400
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-41301,Food and Agriculture Organization of the United Nations (FAO),40,1,1,outgoing,2302408
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-47066,International Organization for Migration (IOM),40,1,1,outgoing,19660183
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-41122,United Nations Children's Fund (UNICEF),40,1,1,outgoing,14187047
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-41121,United Nations High Commissioner for Refugees (UNHCR),40,1,1,outgoing,1451678
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,41aaa,United Nations Office for Project Services (UNOPS),40,1,1,outgoing,1826619
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-41119,United Nations Population Fund,40,1,1,outgoing,1910115
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-41140,United Nations World Food Programme (WFP),40,1,1,outgoing,8174359
+xm-ocha-cerf,UNOCHA - Central Emergency Response Fund (CERF),40,,,,xm-dac-928,World Health Organization,40,1,1,outgoing,2275287
+xm-dac-41114,United Nations Development Programme,40,,,,,(Direct expenditure),,1,1,outgoing,210757932
+xm-dac-41114,United Nations Development Programme,40,,,,,"Government of South Sudan, Republic of",10,1,1,outgoing,1529738
+xm-dac-41114,United Nations Development Programme,40,00187,GOVERNMENT OF NORWAY,10,,,,1,1,incoming,3953939
+xm-dac-41114,United Nations Development Programme,40,13281,"MPTF-South Sudan Multi-Partner Trust Fund for Reconciliation, Stabilization, Resilience",40,,,,1,1,incoming,5581560
+xm-dac-41114,United Nations Development Programme,40,10714,UNDP AS ADMINISTRATIVE AGENT FOR A JOINT PROGRAMME PASS THROUGH ARRANGEMENT,40,,,,1,1,incoming,3439652
+xm-dac-41114,United Nations Development Programme,40,12267,UNDP South Sudan Common Humanitarian Fund,40,,,,1,1,incoming,203938252
+xm-dac-41121,United Nations High Commissioner for Refugees (UNHCR),40,,,,,(Direct expenditure),,1,1,outgoing,135184844
+xm-dac-41121,United Nations High Commissioner for Refugees (UNHCR),40,,,,,Governmental,10,1,1,outgoing,3029448
+xm-dac-41121,United Nations High Commissioner for Refugees (UNHCR),40,,,,,International NGO,21,1,1,outgoing,85599683
+xm-dac-41121,United Nations High Commissioner for Refugees (UNHCR),40,,,,,Multilateral,40,1,1,outgoing,43200
+xm-dac-41121,United Nations High Commissioner for Refugees (UNHCR),40,,,,,Partner country based NGO,24,1,1,outgoing,8490937
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,ACF - USA,21,1,1,outgoing,479500
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,ACT Alliance / DanChurchAid,21,1,1,outgoing,585026
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,ACT Alliance / Lutheran World Federation,21,1,1,outgoing,112500
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,ACTION AGAINST HUNGER,21,1,1,outgoing,1426119
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,AVSI Foundation,21,1,1,outgoing,500000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Action Africa Help-International,21,1,1,outgoing,201736
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Action For Development,22,1,1,outgoing,350000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Active Youth Agency,22,1,1,outgoing,120073
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Africa Development Aid,22,1,1,outgoing,1041912
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,African Humanitarian Corps,22,1,1,outgoing,345370
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Agency for Technical Cooperation and Development,21,1,1,outgoing,2417147
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Aid Support Community Organization,22,1,1,outgoing,136674
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Alight,21,1,1,outgoing,192680
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Association of Christian Resource Organizations Serving Sudan,21,1,1,outgoing,134861
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Associazione Volontari per il Servizio Internazionale,21,1,1,outgoing,300000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,CARE International,21,1,1,outgoing,1729815
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Care for Children and Old Age in South Sudan,22,1,1,outgoing,709750
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Catholic Organisation for Relief and Development Aid,21,1,1,outgoing,156769
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Centre for Emergency and Development Support,22,1,1,outgoing,177951
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Charity Mission Corps,22,1,1,outgoing,742975
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Christian Mission Aid,21,1,1,outgoing,593381
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Christian Mission for Development,22,1,1,outgoing,1307055
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Christian Recovery and Development Agency,22,1,1,outgoing,126860
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Coalition for Humanity,22,1,1,outgoing,1673740
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Collegio Universitario Aspirante e Medici Missionari,21,1,1,outgoing,850008
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Community Action Organization,22,1,1,outgoing,946141
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Community Aid for Fisheries and Agriculture Development,22,1,1,outgoing,575736
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Community Health and Development Organization,22,1,1,outgoing,219999
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Community Initiative for Development Organization,22,1,1,outgoing,3406800
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Community Initiative for Sustainable Development Agency,22,1,1,outgoing,303988
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Community in Need Aid,22,1,1,outgoing,1155835
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Concern Worldwide,21,1,1,outgoing,1138312
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Confident Children out of Conflict,22,1,1,outgoing,136000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Danish Refugee Council,21,1,1,outgoing,3251204
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Deutsche Welthungerhilfe e.V. (German Agro Action),21,1,1,outgoing,326635
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Finn Church Aid,21,1,1,outgoing,251434
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Food Agriculture and Disaster Management,22,1,1,outgoing,122260
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Food and Agriculture Organization of the United Nations,40,1,1,outgoing,2499851
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,GOAL,21,1,1,outgoing,90036
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Green Belt Initiative,22,1,1,outgoing,419400
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Handicap International,21,1,1,outgoing,398013
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Health Action Africa,22,1,1,outgoing,140000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Health Action Aid,22,1,1,outgoing,302707
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Health Link South Sudan,22,1,1,outgoing,666050
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,HealthCare Foundation Organization,22,1,1,outgoing,100634
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Help Restore Youth,22,1,1,outgoing,150987
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Hold the Child,22,1,1,outgoing,700000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Hold the Child Organisation,22,1,1,outgoing,375000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Hope Restoration,22,1,1,outgoing,330954
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Hope Restoration South Sudan,22,1,1,outgoing,100006
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Humane Aid for Community Organization,22,1,1,outgoing,200000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Humanitarian Aid for Change and Transformation,22,1,1,outgoing,195011
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Humanitarian Aid for Development,22,1,1,outgoing,122391
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Humanitarian and Development Consortium,22,1,1,outgoing,308501
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,INTERSOS,21,1,1,outgoing,2102268
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Impact Health Organization,22,1,1,outgoing,948189
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,International Aid Services,21,1,1,outgoing,347245
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,International Medical Corps UK,21,1,1,outgoing,2149290
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,International Organization for Migration,40,1,1,outgoing,18339683
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,International Rescue Committee,21,1,1,outgoing,6054050
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,IsraAID,21,1,1,outgoing,165372
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,John Dau Foundation,22,1,1,outgoing,613719
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Joint Aid Management International,21,1,1,outgoing,1272288
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Justice for Children Organization,22,1,1,outgoing,100484
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Lacha Community and Economic Development,22,1,1,outgoing,287663
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,LiveWell South Sudan,22,1,1,outgoing,357915
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,MEDAIR,21,1,1,outgoing,480000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,MEDICAIR,22,1,1,outgoing,700000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Magna Deti v nudzi [Magna Children at Risk],21,1,1,outgoing,154860
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Malaria Consortium,21,1,1,outgoing,300000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Mentor Initiative,21,1,1,outgoing,768354
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Mercy Corps,21,1,1,outgoing,783319
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Mobile Humanitarian Agency,22,1,1,outgoing,270000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Mobile Theatre Team,22,1,1,outgoing,128593
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Mother and Children Development Aid,22,1,1,outgoing,300005
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Médicos del Mundo (Doctors of the world),21,1,1,outgoing,1153704
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Nile Hope,22,1,1,outgoing,2035875
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Nile Sustainable Development Organization,22,1,1,outgoing,149999
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Nonviolent Peaceforce,21,1,1,outgoing,1138519
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Norwegian People's Aid,21,1,1,outgoing,543575
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Norwegian Refugee Council,21,1,1,outgoing,1721448
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,OXFAM GB,21,1,1,outgoing,806387
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Peace Corps Organization,22,1,1,outgoing,550001
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Peace Corps Organization - South Sudan,22,1,1,outgoing,507583
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Plan International,21,1,1,outgoing,2194980
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Polish Humanitarian Action,21,1,1,outgoing,5577848
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Relief International,21,1,1,outgoing,3110968
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Rural Community Action for Peace and Development,22,1,1,outgoing,444455
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Rural Health Services,22,1,1,outgoing,126649
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Rural Water and Sanitation Support Agency,22,1,1,outgoing,440000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Samaritan's Purse,21,1,1,outgoing,215880
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Save the Children,21,1,1,outgoing,4451624
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Smile Again Africa Development Organization,22,1,1,outgoing,509632
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Solidarités International,21,1,1,outgoing,928345
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,South Sudan Development Agency,22,1,1,outgoing,115500
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,South Sudan Grassroot Initiative for Development,22,1,1,outgoing,101519
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,South Sudan Law Society,22,1,1,outgoing,279110
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Stop Poverty Communal Initiative,22,1,1,outgoing,415796
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Sudan Evangelical Mission,22,1,1,outgoing,100000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Sudan Medical Care,22,1,1,outgoing,350994
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Support for Peace and Education Development Programme,22,1,1,outgoing,1260629
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Support the Empowerment of Women and their Rights for Development,22,1,1,outgoing,216000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,TEARFUND,21,1,1,outgoing,674524
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,TITI Foundation,22,1,1,outgoing,611257
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Terre des Hommes - Lausanne,21,1,1,outgoing,164000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,The Health Support Organization,22,1,1,outgoing,445613
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,The Rescue Initiative- South Sudan,22,1,1,outgoing,153820
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,The Rescue Mission,22,1,1,outgoing,693073
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Touch Africa Development Organization,22,1,1,outgoing,1646103
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,United Nations Children's Fund,40,1,1,outgoing,4693768
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,United Nations High Commissioner for Refugees,40,1,1,outgoing,779995
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,xm-dac-41119,United Nations Population Fund,40,1,1,outgoing,250594
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,xm-dac-41140,United Nations World Food Programme (WFP),40,1,1,outgoing,5541674
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,United Networks for Health,22,1,1,outgoing,705658
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Universal Intervention and Development Organization,22,1,1,outgoing,1705297
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Universal Network for Knowledge and Empowerment Agency,22,1,1,outgoing,1005376
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Veterinaires Sans Frontieres-Germany,21,1,1,outgoing,134959
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Voice of the Peace,22,1,1,outgoing,152801
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Volunteer Organization for the International Co-operation,21,1,1,outgoing,100000
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Vétérinaires sans Frontières (Switzerland),21,1,1,outgoing,374115
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,Women Aid Vision,22,1,1,outgoing,610790
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,xm-dac-928,World Health Organization,40,1,1,outgoing,5757497
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,World Relief,21,1,1,outgoing,3585373
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,World Vision International,21,1,1,outgoing,4906537
+xm-ocha-cbpf,United Nations Office for the Coordination of Humanitarian Affairs,22,,,,,World Vision South Sudan,21,1,1,outgoing,1136671
+xm-dac-928,World Health Organization,40,,,,gb-chc-1076822,SAVE THE CHILDREN FUND - SOUTH SUDAN,21,1,1,outgoing,309600
