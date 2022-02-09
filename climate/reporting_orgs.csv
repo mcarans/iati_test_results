@@ -8,6 +8,7 @@ gb-chc-274467,ActionAid UK
 gb-coh-2732176,Adam Smith International
 us-ein-11-3803281,African Center for Economic Transformation
 xm-dac-46002,African Development Bank
+nl-kvk-41048542,Agriterra Foundation
 nl-kvk-27327087,Akvo Foundation
 us-ein-98-0513530,Alliance for a Green Revolution in Africa
 nl-kvk-41150298,Amref Flying Doctors
@@ -78,7 +79,6 @@ de-1,Federal Ministry for Economic Cooperation and Development (BMZ)
 be-bce_kbo-0418766123,Flemish Interuniversity Council for University Development Cooperation (VLIR-UOS)
 xm-dac-41301,Food and Agriculture Organization (FAO)
 ca-3,"Foreign Affairs, Trade and Development Canada (DFATD)"
-gb-gov-1,"Foreign, Commonwealth and Development Office"
 be-bce_kbo-0416934803,Forum Universitaire pour la Coopération Internationale au Développement
 nl-kvk-56484038,Foundation ICCO
 nl-kvk-40535338,Friends of the Earth International
@@ -122,13 +122,13 @@ xm-dac-701-2,MINISTRY OF FOREIGN AFFAIRS IN JAPAN
 nl-kvk-30195730,MVO Nederland
 be-bce_kbo-0415426155,Miel Maya Honing asbl
 nl-kvk-40530467,Milieudefensie
+fi-3,Ministry for Foreign Affairs of Finland
 xm-dac-69-18,Ministry of Environment of the Slovak Republic
 xm-dac-69-3,Ministry of Finance of Slovak Republic
 es-dir3-e04585801,"Ministry of Foreign Affairs and Cooperation, Spain"
 xm-dac-7,Ministry of Foreign Affairs of the Netherlands
 xm-dac-84,Ministry of Foreign Affairs of the Republic of Lithuania
 xm-dac-3-1,"Ministry of Foreign Affairs, Denmark"
-fi-3,"Ministry of Foreign Affairs, Finland"
 xm-dac-236,Ministère de l'Economie et des Finances du Benin
 gb-coh-1110949,Mott MacDonald Group Limited
 nl-kvk-27189542,NIMD
@@ -161,6 +161,7 @@ nl-kvk-32102434,RUAF Foundation
 gb-chc-1047653,Raleigh International
 dk-cvr-63407216,Red Barnet
 nl-kvk-27267681,Red Cross Red Crescent Climate Centre
+us-ein-74-2244146,Rocky Mountain Institute
 nl-kvk-41152786,SNV Netherlands Development Organisation
 be-bce_kbo-0425410524,SOS FAIM
 be-bce_kbo-0431955945,Sensorial Handicap Cooperation
@@ -177,7 +178,6 @@ mx-rfc-slp1412039f3,Soluciones en Legislación y Política Ambiental AC
 za-npo-048-364,SouthSouthNorth
 nl-kvk-41213450,Spark head office Amsterdam
 nl-kvk-41217595,Stichting ActionAid
-nl-kvk-41048542,Stichting Agriterra
 nl-kvk-40594571,Stichting Simavi
 nl-kvk-41118168,Stichting Woord en Daad
 se-0,Sweden
@@ -197,6 +197,7 @@ ie-chy-20009601,Trocaire
 gb-coh-ni21482,Trocaire (Northern Ireland)
 nl-kvk-41155305,Tropenbos International
 gb-gov-10,UK - Department of Health and Social Care (DHSC)
+gb-gov-1,"UK - Foreign, Commonwealth and Development Office"
 gb-gov-50,UK - Prosperity Fund
 be-bce_kbo-0415627875,ULB-Coopération
 xm-dac-41116,UN Environment
